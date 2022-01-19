@@ -1,6 +1,6 @@
 
 import './App.css';
-import { Button, createTheme, Grid, ThemeProvider } from '@mui/material';
+import { createTheme, Grid, ThemeProvider } from '@mui/material';
 
 import { Joystick } from 'react-joystick-component';
 
